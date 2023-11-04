@@ -34,3 +34,5 @@ git push -u origin master
 #Tujuannya
 - Membuat tugas Gradle sederhana untuk menerima parameter CLI dan mencetaknya dengan pesan ucapan
 - Proyek skrip Gradle harus dibuat di repositori yang berbeda dan dorong ke GitHub
+
+![image](https://github.com/maufaalghifarri/Test_buat_Gradle/assets/149165218/e949ac7f-c65e-411d-9189-dd470c332189)
